@@ -143,3 +143,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 group_work/Projeto DataMining.ipynb
+notebooks_solutions/lab3_data_exploration.ipynb
+notebooks/lab5_data_preprocess.ipynb
+*.ipynb
+notebooks/lab5_data_preprocess.ipynb
+notebooks_solutions/lab3_data_exploration.ipynb
+notebooks_solutions/lab4_data_visualization.ipynb
